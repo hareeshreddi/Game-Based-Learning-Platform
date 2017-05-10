@@ -16,3 +16,7 @@ swaps, a message will be displayed requesting to restart the game. If a player s
 will report the score as per total correct and incorrect swaps and time taken to complete the sorting. The system
 also generates game statistic report that include name of the player, max score (without mistake), number of
 restarting the game etc.
+
+Prototype of the app is explained in the following link::
+Project Link:https://www.youtube.com/watch?v=tjIZ0U2uHoM
+
