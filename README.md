@@ -17,6 +17,5 @@ will report the score as per total correct and incorrect swaps and time taken to
 also generates game statistic report that include name of the player, max score (without mistake), number of
 restarting the game etc.
 
-Prototype of the app is explained in the following link::
-Project Link:https://www.youtube.com/watch?v=tjIZ0U2uHoM
+Prototype of the app is explained in the following link::https://www.youtube.com/watch?v=tjIZ0U2uHoM
 
