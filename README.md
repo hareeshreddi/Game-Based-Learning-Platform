@@ -6,7 +6,7 @@ different sorting algorithms. The student can play and learn during the lecture 
 teacher also can use this application as a supplementary for teaching sorting algorithm.
 Initial interface will contains menu like play game, restart, quit, user helps etc. Rest part of the screen should
 contain the rules for playing the game. Under the play the sorting game player will select any sorting from the
-list (The app should contain at least 3 options in the menu for 3 different shorting algorithms). Based on the
+list (The app should contain at least 3 options in the menu for 3 different sorting algorithms). Based on the
 selection of the sorting algorithm from the menu, the algorithm in pseudo code should be displayed first. Student
 should learn the working principle of the algorithm from there. After pressing the “Start Playing” button, some
 3D cubes labeled with some 2-digit numbers in unsorted order will appear on the screen. The cubes on the screen
